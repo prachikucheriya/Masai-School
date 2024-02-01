@@ -1,0 +1,2 @@
+## git commends
+-git add .
